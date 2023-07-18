@@ -161,7 +161,7 @@
         },
         "background": {
                 "blur": 0,
-                "url": "https://cdn.discordapp.com/attachments/994189038548422756/1130577523965702224/Untitled286_20230717204329.png",
+                "url": "https://cdn.discordapp.com/attachments/994189038548422756/1130798250992074842/Untitled286-rain.gif",
                 "alpha": 1,
                 "color": "#005d4b"
         }
